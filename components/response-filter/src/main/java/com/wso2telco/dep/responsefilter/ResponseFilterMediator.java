@@ -30,7 +30,7 @@ import org.apache.synapse.commons.json.JsonUtil;
 import org.apache.synapse.core.axis2.Axis2MessageContext;
 import org.apache.synapse.mediators.AbstractMediator;
 
-public class ResponseFilterMediator extends AbstractMediator {
+public class    ResponseFilterMediator extends AbstractMediator {
 
     private static final Log log = LogFactory.getLog(ResponseFilterMediator.class);
 
